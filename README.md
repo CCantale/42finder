@@ -28,3 +28,5 @@ To use it, just put the executable in the folder and run
 Here's an example:
 
 ![test 42finder](https://user-images.githubusercontent.com/95633668/200097442-bf27237e-ab9c-4707-bfed-a432dd85251a.png)
+
+Occurrences of the pattern "strlen" can be found in ft_strlen.c, x_X_printf.c, c_s.c and libft.h
