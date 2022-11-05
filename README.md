@@ -17,6 +17,8 @@ e.g.
 
 /*  src/utils/string_utils.c  */
 
+(at least 1 space after "/*" and 2 spaces after ".c"/".h")
+
 //////////////////////////////////////////////////////////
 
 To use it, just put the executable in the folder and run
