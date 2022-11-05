@@ -21,7 +21,7 @@ e.g.
 
 //////////////////////////////////////////////////////////
 
-To use it, just put the executable in the folder and run
+To use the script, just put the executable in the folder and run
 
 ./find word PATTERN
 
