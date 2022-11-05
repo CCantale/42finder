@@ -7,15 +7,15 @@ It is designed to work with files that carry the 42 signature header, but
 
 alternatively it is sufficient to put this line at the beginning of every file:
 
-/* FILE_NAME */
+/*  FILE_NAME  */
 
 or, even better:
 
-/* FILE_PATH */
+/*  FILE_PATH  */
 
 e.g. 
 
-/* src/utils/string_utils.c */
+/*  src/utils/string_utils.c  */
 
 //////////////////////////////////////////////////////////
 
